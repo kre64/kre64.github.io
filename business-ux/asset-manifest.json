@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/business-ux/static/css/main.f36fcfe2.chunk.css",
+    "main.js": "/business-ux/static/js/main.bdafd511.chunk.js",
+    "main.js.map": "/business-ux/static/js/main.bdafd511.chunk.js.map",
+    "runtime~main.js": "/business-ux/static/js/runtime~main.b21d5f5d.js",
+    "runtime~main.js.map": "/business-ux/static/js/runtime~main.b21d5f5d.js.map",
+    "static/js/2.8bb91f4b.chunk.js": "/business-ux/static/js/2.8bb91f4b.chunk.js",
+    "static/js/2.8bb91f4b.chunk.js.map": "/business-ux/static/js/2.8bb91f4b.chunk.js.map",
+    "index.html": "/business-ux/index.html",
+    "precache-manifest.56f5432aa9d9cb4fcf2af95cdf0316c2.js": "/business-ux/precache-manifest.56f5432aa9d9cb4fcf2af95cdf0316c2.js",
+    "service-worker.js": "/business-ux/service-worker.js",
+    "static/css/main.f36fcfe2.chunk.css.map": "/business-ux/static/css/main.f36fcfe2.chunk.css.map"
+  }
+}
