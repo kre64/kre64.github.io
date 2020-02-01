@@ -12,4 +12,4 @@ kre64.github.io - a collection of things!
 * https://kre64.github.io/twitter-reviews
   * Search and filter reviews for Twitter's iOs App.
 * https://kre64.github.io/survive
-  * Not sure why I built this in react but atleast I finished it! (It's a little game)
+  * Built a game from scratch, used canvas and vanilla js + react (which was a terrible idea)
